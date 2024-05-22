@@ -1,3 +1,5 @@
+package task;
+
 public class RegexValidatePINCode {
 
 //    public static boolean validatePin(String pin) {
